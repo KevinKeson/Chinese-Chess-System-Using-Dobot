@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Evaluation.cpp
+  MoveGenerator.cpp
+  NegaMaxSearch.cpp
+  Generating Code...
+     Creating library G:\Dobot\电设\NegaMaxSearch\x64\Debug\NegaMaxSearch.lib and object G:\Dobot\电设\NegaMaxSearch\x64\Debug\NegaMaxSearch.exp
+  NegaMaxSearch.vcxproj -> G:\Dobot\电设\NegaMaxSearch\x64\Debug\NegaMaxSearch.dll
