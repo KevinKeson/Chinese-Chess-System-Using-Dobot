@@ -10,6 +10,6 @@ Chinese chess system using Dobot, including a CNN recognition model and an AI al
 
 ![Watch the video](https://github.com/KevinKeson/Chinese-Chess-System-Using-Dobot/blob/master/Display_2.gif)
 
-> - Display Part 3
+# > - Display Part 3
 
 ![Watch the video](https://github.com/KevinKeson/Chinese-Chess-System-Using-Dobot/blob/master/Display_3.gif)
