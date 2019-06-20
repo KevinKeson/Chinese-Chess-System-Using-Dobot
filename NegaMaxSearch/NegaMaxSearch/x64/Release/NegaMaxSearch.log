@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Evaluation.cpp
+  MoveGenerator.cpp
+  NegaMaxSearch.cpp
+     Creating library G:\Dobot\电设\NegaMaxSearch\x64\Release\NegaMaxSearch.lib and object G:\Dobot\电设\NegaMaxSearch\x64\Release\NegaMaxSearch.exp
+  Generating code
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NegaMaxSearch.vcxproj -> G:\Dobot\电设\NegaMaxSearch\x64\Release\NegaMaxSearch.dll
