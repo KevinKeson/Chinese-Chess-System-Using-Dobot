@@ -1,6 +1,6 @@
 # Chinese-Chess-System-Using-Dobot
 
-Chinese chess system using Dobot, including a CNN recognition model and an AI algorithm via NegaMaxSearch.
+This is a human-machine Chinese chess system using Dobot, including a CNN recognition model and an AI algorithm via NegaMax Search.
 
 > Display Part 1
 
