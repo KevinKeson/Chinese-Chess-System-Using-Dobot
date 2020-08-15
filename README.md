@@ -16,11 +16,11 @@ Chinese chess system using Dobot, including a CNN recognition model and an AI al
 
 > 原视频链接
 
-- youtube
+* YouTube
 
 [https://youtu.be/y4p2K9Ql2hg](https://youtu.be/y4p2K9Ql2hg "Man vs Dobot")
 
-- 百度网盘
+* 百度网盘
 
 [https://pan.baidu.com/s/1bAJa5d-VJGPShGO6G6Ttyw](https://pan.baidu.com/s/1bAJa5d-VJGPShGO6G6Ttyw "Man vs Dobot")
 提取码：7uhx
